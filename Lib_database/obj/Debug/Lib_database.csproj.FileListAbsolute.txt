@@ -1,0 +1,14 @@
+C:\Users\666rl\source\repos\Lib_database\Lib_database\bin\Debug\Lib_database.exe.config
+C:\Users\666rl\source\repos\Lib_database\Lib_database\bin\Debug\Lib_database.exe
+C:\Users\666rl\source\repos\Lib_database\Lib_database\bin\Debug\Lib_database.pdb
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.csproj.AssemblyReference.cache
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.Add_Book_Form.resources
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.Edit_Book_Form.resources
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.MainForm.resources
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.Properties.Resources.resources
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.Search_Form.resources
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.csproj.GenerateResource.cache
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.csproj.CoreCompileInputs.cache
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.exe
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.pdb
+C:\Users\666rl\source\repos\Lib_database\Lib_database\obj\Debug\Lib_database.Y_N_Form.resources
